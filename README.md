@@ -12,7 +12,7 @@ We decided on this application because as individuals who have been through the 
 - Deployment of a full application that we can share with our community
 - Gain knowledge of popular technologies utilized in the fullstack development industry 
 
-#### 🔴 Our target is to: 
+#### 🎯 Our target is to: 
 - [ ] Get comfortable **utilizing React.js** to build quality and reusable user interfaces 
 - [ ] Learn **backend technologies** to handle user data and query it within databases 
 
